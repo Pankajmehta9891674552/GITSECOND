@@ -17,4 +17,23 @@ public class A {
 		   System.out.println("enter sie of array");
 		   int size=sc.nextInt();	
 	}
+	
+	
+	@Test
+	public void A1()
+	{
+		System.out.println("A1 calling");
+		
+		Scanner sc =new Scanner(System.in);
+		   
+		   System.out.println("enter sie of array");
+		   int size=sc.nextInt();	
+	}
+	
+	
+	
+	
+	
+	
+	
 }
